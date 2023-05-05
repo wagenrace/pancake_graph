@@ -1,3 +1,5 @@
+import json
+
 import requests
 from tqdm import tqdm
 
@@ -34,3 +36,7 @@ while True:
                 )
                 # for ingredient in ingredients:
                 #     filtered_ingredient = ingredient['hyperlinkFoodTextList']
+
+
+with open("results.json", "w") as fp:
+    json.dump(all_clean_recipes, fp)
