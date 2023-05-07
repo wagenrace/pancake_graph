@@ -1,0 +1,177 @@
+{
+    "honey": {
+        "uri": "http://purl.obolibrary.org/obo/UBERON_0036016",
+        "label": "honey",
+        "score": 3.9006636142730713
+    },
+    "baking powder": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03301940",
+        "label": "baking powder",
+        "score": 7.080144882202148
+    },
+    "milk": {
+        "uri": "http://purl.obolibrary.org/obo/UBERON_0001913",
+        "label": "milk",
+        "score": 2.6772615909576416
+    },
+    "ginger": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_00002718",
+        "label": "ginger root",
+        "score": 3.7263026237487793
+    },
+    "whole wheat flour": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03302340",
+        "label": "whole wheat flour",
+        "score": 6.596190452575684
+    },
+    "cottage cheese": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03301605",
+        "label": "cottage cheese",
+        "score": 6.116695404052734
+    },
+    "nutmeg": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_00003223",
+        "label": "nutmeg butter",
+        "score": 4.456551551818848
+    },
+    "1% low-fat milk": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03304793",
+        "label": "chocolate milk (low fat)",
+        "score": 6.3389434814453125
+    },
+    "cinnamon": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03301175",
+        "label": "cinnamon",
+        "score": 4.487053871154785
+    },
+    "cheese": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03304655",
+        "label": "cheese ravioli with cheese sauce",
+        "score": 2.1293044090270996
+    },
+    "white flour": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03307541",
+        "label": "white rice flour",
+        "score": 4.984618186950684
+    },
+    "salt": {
+        "uri": "http://purl.obolibrary.org/obo/CHEBI_24866",
+        "label": "salt",
+        "score": 3.4294803142547607
+    },
+    "oatmeal": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03305157",
+        "label": "oatmeal cookie",
+        "score": 4.51171350479126
+    },
+    "chives": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03401576",
+        "label": "10006074 - chives (gs1 gpc)",
+        "score": 3.6781563758850098
+    },
+    "water": {
+        "uri": "http://purl.obolibrary.org/obo/CHEBI_15377",
+        "label": "water",
+        "score": 3.317984104156494
+    },
+    "vanilla": {
+        "uri": "http://purl.obolibrary.org/obo/NCBITaxon_51238",
+        "label": "Vanilla",
+        "score": 4.2232794761657715
+    },
+    "all-purpose flour": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03304534",
+        "label": "wheat flour (all purpose)",
+        "score": 9.79934024810791
+    },
+    "garlic": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_00003583",
+        "label": "garlic clove",
+        "score": 3.5694901943206787
+    },
+    "sour cream": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03302515",
+        "label": "sour cream",
+        "score": 6.016602516174316
+    },
+    "applesauce": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03301126",
+        "label": "applesauce",
+        "score": 5.736695289611816
+    },
+    "canned pumpkin puree": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03301396",
+        "label": "pumpkin (canned)",
+        "score": 6.296876907348633
+    },
+    "buttermilk": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_00002398",
+        "label": "mammalian buttermilk",
+        "score": 3.887192487716675
+    },
+    "clove": {
+        "uri": "http://purl.obolibrary.org/obo/BTO_0000262",
+        "label": "clove",
+        "score": 5.328269958496094
+    },
+    "soymilk": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03310629",
+        "label": "soy milk substitute (hypoallergenic)",
+        "score": 4.642333030700684
+    },
+    "white sugar": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03420157",
+        "label": "white sugar",
+        "score": 5.398596286773682
+    },
+    "egg": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03420194",
+        "label": "egg or egg component",
+        "score": 3.037172555923462
+    },
+    "flour": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_00002413",
+        "label": "bean flour",
+        "score": 2.9604880809783936
+    },
+    "pepper": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_00003520",
+        "label": "pepper (whole)",
+        "score": 2.981757640838623
+    },
+    "onion": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03411300",
+        "label": "onion plant",
+        "score": 3.4475526809692383
+    },
+    "baking soda": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_00002385",
+        "label": "baking soda product",
+        "score": 7.14423942565918
+    },
+    "eggs": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03420194",
+        "label": "egg or egg component",
+        "score": 3.037172555923462
+    },
+    "butter": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03310351",
+        "label": "butter",
+        "score": 3.285787582397461
+    },
+    "mashed potatoes": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03302963",
+        "label": "chestnut (mashed)",
+        "score": 4.360454559326172
+    },
+    "sugar": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03420108",
+        "label": "sugar",
+        "score": 3.1085429191589355
+    },
+    "margarine": {
+        "uri": "http://purl.obolibrary.org/obo/FOODON_03301672",
+        "label": "margarine",
+        "score": 4.375085830688477
+    }
+}
